@@ -84,6 +84,6 @@ To complete this lab:
 1. Take **screenshots** of IAM Users, Groups, and Policies applied.
 2. Paste the screenshots into a **Google Doc**.
 3. Upload the document to **Google Drive**.
-4. Share the **Google Drive link** with your instructor.
+4. To submit the lab, paste the **Google Drive link** in the submission field in the Student Portal.
 
 This lab provides **hands-on experience** in **managing IAM users, groups, and permissions** in AWS, ensuring proper access control and security within an AWS environment.
